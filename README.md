@@ -4,6 +4,12 @@
 **참여 인원**
 - 황윤재 김수인 김동현 최현경 장호찬 임용진
 
+**사용 모델**
+- SVM, GBM, XGBoost, CatBoost, MLP, Pycaret
+
+**최종 모델**
+- GBM(learning_rate=0.01, max_depth=4, n_estimators=500, subsample=0.7)
+
 **최종 public score**
 - 0.68892
 
