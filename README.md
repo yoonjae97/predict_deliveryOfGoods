@@ -1,4 +1,4 @@
-### 스마트인재개발원에서 진행하는 전자 상거래 물품 배송 예측
+### 스마트인재개발원에서 진행하는 전자 상거래 물품 배송 예측(팀 : S_Zzz)
 - https://www.kaggle.com/competitions/23-8/leaderboard
   
 **참여 인원**
@@ -12,6 +12,8 @@
 
 **최종 public score**
 - 0.68892
+  
+![image](https://github.com/yoonjae97/predict_deliveryOfGoods/assets/100403436/81f3869c-328d-46cc-bff0-d30499e9d044)
 
 **진행기간**
 - 2023.08.04 ~ 2023.08.11
